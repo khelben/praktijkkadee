@@ -84,7 +84,7 @@ enableEmoji = true
     [[params.contacts]]
         label = "email"
         value = "lore@praktijkkadee.be"
-        url = "lore@praktijkkadee.be"
+        url = "mailto:lore@praktijkkadee.be"
         icon = "fa fa-envelope"
 
     # Add additional contacts here!
