@@ -9,8 +9,8 @@ header_use_video: false
 # header_logo: "images/chef-hat.png"
 #
 # Headers are safeHTML, you can use HTML tags such as b,i,u,br
-header_headline: "Logopediepraktijk Kadee"
-header_subheadline: "<b>Edegem</b>"
+header_headline: "Praktijk Kadee"
+header_subheadline: "Logopedie"
 
 # Add a 'Go back to top' item to the navigation menu
 # Title: name of navigation menu entry

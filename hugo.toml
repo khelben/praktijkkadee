@@ -77,8 +77,8 @@ enableEmoji = true
 
     [[params.contacts]]
         label = "phone"
-        value = "+32 479 123456"
-        url = "tel:+32 379 123456"
+        value = "+32496247410"
+        url = "tel:+32496247410"
         icon = "fa fa-phone"
 
     [[params.contacts]]
