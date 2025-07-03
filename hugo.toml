@@ -76,6 +76,12 @@ enableEmoji = true
         keywords = "logopedie, Edegem, leerstoornis, articulatiestoornis, taalstoornis, Oromyofunctionele therapie, therapie, kinderen"
 
     [[params.contacts]]
+        label = "address"
+        value = "Molenlei 1, 2650 Edegem"
+        url = "https://maps.app.goo.gl/eREp52o7wj71Aqxv6"
+        icon = "fa fa-house"
+
+    [[params.contacts]]
         label = "phone"
         value = "0496/24.74.10"
         url = "tel:+32496247410"
