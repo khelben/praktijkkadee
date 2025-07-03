@@ -13,3 +13,5 @@ Heb je vragen of wil je graag een afspraak maken? Neem gerust contact op!
 Tot binnenkort!
 
 Lore – Praktijk Kadee
+
+![Lore Van den Poel](/images/photo.jpeg)
