@@ -4,7 +4,7 @@ title = 'Logopediepraktijk Kadee'
 theme = 'hugo-scroll'
 
 # This is a "one page"-website, so we do not need these kinds of pages...
-disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT"]
+disableKinds = ["section", "taxonomy", "term", "rss", "robotstxt"]
 
 defaultContentLanguage = "en"
 
