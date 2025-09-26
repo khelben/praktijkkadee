@@ -4,7 +4,7 @@ weight: 3
 header_menu: true
 ---
 
-Tarieven van 15 september 2025 tot 31 december 2025 (geconventioneerd):
+Tarieven tot 31 december 2025 (geconventioneerd):
 
 ![tarieven geconventioneerd](/images/tarieven-geconventioneerd.png "Tarieven geconventioneerd")
 

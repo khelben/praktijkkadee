@@ -6,11 +6,12 @@ header_menu: true
 
 Welkom bij Praktijk Kadee!  
 
-Ik ben Lore, zelfstandige logopediste, en vanaf 15 september 2025 start ik met mijn eigen praktijk in **Edegem**. Je bent hier welkom voor hulp bij articulatie-, taal-, leerstoornissen en oromyofunctionele therapie voor kinderen.
+Ik ben Lore, zelfstandige logopediste in **Edegem**. Je bent hier welkom voor hulp bij articulatie-, taal-, leerstoornissen en oromyofunctionele therapie voor kinderen.
 
-Heb je vragen of wil je graag een afspraak maken? Neem gerust contact op!
+**Voor therapiemomenten na de schooluren is er een wachtlijst.** Tijdens de schooluren kan er nog therapie gestart worden.
+Intakegesprekken en onderzoeken gaan uitsluitend door op maandag voormiddag tijdens de schooluren.
 
-Tot binnenkort!
+Neem gerust contact op om een afspraak te maken. 
 
 Lore – Praktijk Kadee
 
